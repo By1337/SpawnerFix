@@ -1,0 +1,6 @@
+name: Spawnerfix
+version: '${project.version}'
+main: org.by1337.spawnerfix.Spawnerfix
+api-version: 1.18
+authors: [ By1337 ]
+description: fix spawn explosion
